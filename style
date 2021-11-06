@@ -1,1 +1,16 @@
-s
+body {
+  background-color: #dcdbe1;
+}
+
+h1 {
+  color: navy;
+}
+
+p3 {
+  color: navy;
+  margin-left: 20px;
+}
+
+a {
+  margin-left: 8px;
+}
