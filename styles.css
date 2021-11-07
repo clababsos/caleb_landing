@@ -1,0 +1,36 @@
+body {
+  background-color: #F7F9F9;
+}
+
+h1 {
+  color: #2081c3;
+  font-size: 80px;
+  font-weight: bold;
+  font-style: italic;
+}
+
+h2 {
+  color: #42aae1;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+p2 {
+  color: black;
+
+}
+
+p3 {
+  color: black;
+  font-weight: lighter;
+  margin-left: 12px;
+  font-size: 18px;
+}
+
+
+a {
+  margin-left: 8px;
+}
+
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
