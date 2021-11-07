@@ -3,6 +3,7 @@ body {
 }
 
 h1 {
+  font-family: 'Roboto', sans-serif;
   color: #2081c3;
   font-size: 80px;
   font-weight: bold;
@@ -10,18 +11,21 @@ h1 {
 }
 
 h2 {
+  font-family: 'Roboto', sans-serif;
   color: #42aae1;
   font-size: 40px;
   font-weight: bold;
 }
 
 p2 {
+  font-family: 'Roboto', sans-serif;
   color: black;
 
 }
 
 p3 {
   color: black;
+  font-family: 'Roboto', sans-serif;
   font-weight: lighter;
   margin-left: 12px;
   font-size: 18px;
@@ -29,6 +33,7 @@ p3 {
 
 
 a {
+  font-family: 'Roboto', sans-serif;
   margin-left: 8px;
 }
 
